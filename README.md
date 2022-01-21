@@ -1,7 +1,7 @@
 ### Hey! I'm Marieli 
 
 - 💻 3rd year Computer Science
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JS
 - 🤔 I'm looking for an internship
 - 📫 How to reach me: ferreiramariely99@gmail.com
 
