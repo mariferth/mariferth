@@ -1,8 +1,6 @@
 ### Hey! I'm Marieli 
 
-- 💻 3rd year Computer Science
-- 🤔 I'm looking for an internship
-- 📫 How to reach me: ferreiramariely99@gmail.com
+- 💻 4rd year Computer Science
 
 <div align="center">
   <a href="https://github.com/mariferth">
