@@ -1,6 +1,6 @@
 ### Hey! I'm Marieli 
 
-- 💻 4rd year Computer Science
+- 💻 Computer Science
 
 <div align="center">
   <a href="https://github.com/mariferth">
